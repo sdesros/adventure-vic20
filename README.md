@@ -11,3 +11,11 @@ The game was original written around 1983 and was based on implementing a game l
 * Certain points on the map will trigger mini-games.
 * Failing in the mini-games will bring you back on the map page.
 * Succeeding in the mini-games will bring you back to the map page but the number on the upper-left corner will increase.
+
+# How to build
+This repository includes a project in [CBM Prg Studio](http://www.ajordison.co.uk/) a windows IDE for various Commodore 8 bit computers.
+
+# How to run
+Either build or download the *.prg file to run in an emulator or load into a real VIC-20 via SDIEC or other means.
+
+Game is available to play or download on: https://sdesros.ca/vic20/
