@@ -20,4 +20,4 @@ This repository includes a project in [CBM Prg Studio](http://www.ajordison.co.u
 # How to run
 Either build or download the .prg file to run in an emulator or load into a real VIC-20 via SDIEC or other means.
 
-Game is also available to play or download on: https://sdesros.ca/vic20/
+Game is also available to play or download on: https://sdesros.ca/vic20/?gamefile=adventure
