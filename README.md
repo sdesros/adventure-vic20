@@ -1,6 +1,6 @@
 # adventure-vic20
 A game written in BASIC for the unexpected VIC-20.
-!(screenshot)[https://sdesros.ca/vic20/content/adventure-revised.png]
+![screenshot](https://sdesros.ca/vic20/content/adventure-revised.png)
 
 # About the game
 The game was original written around 1983 and was based on implementing a game like the Swordquest series for the Atari VCS as interpretted by a 9 year old.
